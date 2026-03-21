@@ -1,0 +1,19 @@
+# LLM & RAG Framework
+langchain==0.1.13
+langchain-anthropic==0.1.4
+llama-index==0.10.20
+
+# Vector DB & Parsing
+chromadb==0.4.24
+pypdf==4.1.0
+unstructured==0.12.5
+
+# Data & Calculation Utils
+pandas==2.2.1
+pydantic==2.6.4
+
+# UI
+streamlit==1.32.2
+
+# Environment Management
+python-dotenv==1.0.1
