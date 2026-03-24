@@ -30,7 +30,7 @@
 ### 4.  可解释性交互大盘 (Explainable AI Dashboard)
 基于 Streamlit 搭建了端到端的数据分析交互界面。提供红黄绿动态风险预警，并内置**“原始证据链溯源”**折叠面板，确保 AI 生成的每一条数据都可审计、防幻觉。
 
-## 🛠️ 技术栈 (Tech Stack)
+##  技术栈 (Tech Stack)
 * **核心框架:** Python, LangChain
 * **多模态大模型:** Anthropic Claude 3.5 Sonnet (Vision)
 * **文档智能:** pypdf (Metadata Extraction), pdf2image, EasyOCR
