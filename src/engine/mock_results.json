@@ -1,0 +1,21 @@
+{
+  "liquidity_risk": {
+    "liquidity_ratio": 1.82,
+    "quick_ratio": 1.14,
+    "source_text": "流动资产合计 2,341,876千元 / 流动负债合计 1,286,492千元",
+    "page_number": 42
+  },
+  "profitability": {
+    "roe": 0.112,
+    "gross_margin": 0.341,
+    "source_text": "本年净利润 234,567千元；归属于母公司股东权益合计 2,093,450千元；营业收入 3,876,210千元；营业成本 2,555,534千元",
+    "page_number": 45
+  },
+  "operational_health": {
+    "inventory_turnover": 5.23,
+    "source_text": "营业成本 2,555,534千元；存货账面价值 488,629千元",
+    "page_number": 43
+  },
+  "overall_risk_level": "YELLOW",
+  "assessment_summary": "（模拟数据）企业流动比率1.82、速动比率1.14，短期偿债能力尚可但未达GREEN门槛（≥1.5/≥1.0）。ROE 11.2%、毛利率34.1%盈利水平健康。存货周转率5.23，营运效率良好。主要关注点：流动比率略低于理想区间，建议持续监控应收账款回收周期。综合评定为YELLOW中风险。"
+}

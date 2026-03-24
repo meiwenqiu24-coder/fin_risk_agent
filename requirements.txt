@@ -1,12 +1,19 @@
 # LLM & RAG Framework
-langchain==0.1.13
-langchain-anthropic==0.1.4
+langchain>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
 llama-index==0.10.20
 
 # Vector DB & Parsing
 chromadb==0.4.24
 pypdf==4.1.0
 unstructured==0.12.5
+
+# Embedding（本地离线，无需外部 API）
+sentence-transformers>=2.6.0
+sentencepiece>=0.2.0
 
 # Data & Calculation Utils
 pandas==2.2.1

@@ -1,5 +1,13 @@
+# 环境变量与机密信息 (绝对不能上传!)
 .env
+
+# 虚拟环境与缓存
 __pycache__/
-data/raw/
-data/processed/
-.claude/
+*.pyc
+.DS_Store
+
+# 向量数据库与本地数据
+data/
+chroma_db/
+*.pdf
+*.png
