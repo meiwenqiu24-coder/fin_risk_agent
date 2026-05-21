@@ -4,23 +4,23 @@ langchain-anthropic>=0.3.0
 langchain-community>=0.3.0
 langchain-core>=0.3.0
 langchain-text-splitters>=0.3.0
-llama-index==0.10.20
+llama-index>=0.10.20
 
 # Vector DB & Parsing
-chromadb==0.4.24
-pypdf==4.1.0
-unstructured==0.12.5
+chromadb>=0.4.24
+pypdf>=4.1.0
+unstructured>=0.13.0
 
 # Embedding（本地离线，无需外部 API）
 sentence-transformers>=2.6.0
 sentencepiece>=0.2.0
 
 # Data & Calculation Utils
-pandas==2.2.1
-pydantic==2.6.4
+pandas>=2.2.1
+pydantic>=2.7.4
 
 # UI
-streamlit==1.32.2
+streamlit>=1.32.2
 
 # Environment Management
-python-dotenv==1.0.1
+python-dotenv>=1.0.1
